@@ -1,0 +1,62 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#kenzie{
+    font-size:40px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#child{
+    font-size: 15px;
+    margin:70px 0px 40px 5px;
+}
+
+.blue{
+    color: blue;
+}
+
+#container{
+    font-size: 35px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+}
+
+#aqui{
+    color: blue;
+
+}
+
+#aqui :visited{
+    color: blue;
+}
+
+#aboutwe{
+    font-size: 35px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+}
+
+#about{
+    background-color: cornflowerblue;
+    color: white;
+    width: 70%;
+    padding: 15px;
+}
+
+.programas{
+    color: black;
+}
+
+.programas :visited{
+    color: black;
+}
+
+#rodape{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
